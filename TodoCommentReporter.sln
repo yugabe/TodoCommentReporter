@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TodoCommentReporter", "TodoCommentReporter\TodoCommentReporter.csproj", "{677EE47A-BA9F-4B1F-A7DB-7F38C343D4F6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TodoCommentReporter.Vsix", "TodoCommentReporter.Vsix\TodoCommentReporter.Vsix.csproj", "{487F0B6D-E278-4EDE-A7E9-77A57FB7C343}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{677EE47A-BA9F-4B1F-A7DB-7F38C343D4F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{677EE47A-BA9F-4B1F-A7DB-7F38C343D4F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{677EE47A-BA9F-4B1F-A7DB-7F38C343D4F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{677EE47A-BA9F-4B1F-A7DB-7F38C343D4F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{487F0B6D-E278-4EDE-A7E9-77A57FB7C343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{487F0B6D-E278-4EDE-A7E9-77A57FB7C343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{487F0B6D-E278-4EDE-A7E9-77A57FB7C343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{487F0B6D-E278-4EDE-A7E9-77A57FB7C343}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03A715BA-0D6E-4789-B550-C325AFE7FCD1}
+	EndGlobalSection
+EndGlobal
